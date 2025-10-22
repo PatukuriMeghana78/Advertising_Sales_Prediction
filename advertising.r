@@ -1,5 +1,4 @@
 # Advertising Sales Prediction
-# Author: Your Name
 # Date: 2025-10-22
 # Description: Multiple linear regression to predict sales from TV, Radio, and Newspaper budgets.
 
@@ -56,3 +55,4 @@ ggsave("../plots/residual_plot.png", plot = p2, width = 6, height = 4)
 # Optional: Calculate RMSE
 rmse <- sqrt(mean(advertising$Residuals^2))
 cat("Root Mean Squared Error (RMSE):", rmse, "\n")
+

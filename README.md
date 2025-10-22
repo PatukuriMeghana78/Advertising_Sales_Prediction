@@ -14,7 +14,7 @@ Synthetic dataset with 10 observations:
 - Built a multiple linear regression model: `Sales ~ TV + Radio + Newspaper`
 - Evaluated model using predicted vs actual plots and residual plots.
 
-## Key Findingss
+## Key Findings
 - Coefficients indicate how each ad medium impacts sales.
 - Residual plot shows whether assumptions of linear regression are satisfied.
 - Newspaper may have lower impact compared to TV and Radio.
